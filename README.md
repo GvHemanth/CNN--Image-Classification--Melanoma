@@ -4,6 +4,8 @@ Skin cancer is a deadly disease that can be life-threatening if not detected ear
 
 ## Dataset
 
+The Dataset can be downloaded from [Here.](https://drive.google.com/file/d/1xLfSQUGDl8ezNNbUkpuHOYvSpTyxVhCs/view)
+
 The dataset used in this project consists of 2357 images of malignant and benign oncological diseases, sourced from the International Skin Imaging Collaboration (ISIC). The dataset contains nine sub-directories, each representing a specific type of skin cancer:
 
 - Actinic keratosis
