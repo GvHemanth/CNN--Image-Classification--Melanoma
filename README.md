@@ -54,9 +54,9 @@ Feel free to contribute to this project and adapt it to your specific needs.
 
 ## Contact
 #### Created by :
-[Hemanth](https://github.com/GvHemanth)
-[Bharti Rani](https://github.com/21Bharti)
-[Rahul]()
+- [Hemanth](https://github.com/GvHemanth).
+- [Bharti Rani](https://github.com/21Bharti).
+- [Rahul]().
 
 
 ## References
