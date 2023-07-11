@@ -52,6 +52,13 @@ The developed CNN model shows promising results in accurately detecting differen
 
 Feel free to contribute to this project and adapt it to your specific needs.
 
+## Contact
+#### Created by :
+[Hemanth](https://github.com/GvHemanth)
+[Bharti Rani](https://github.com/21Bharti)
+[Rahul]()
+
+
 ## References
 
 [1] ISIC - The International Skin Imaging Collaboration: https://www.isic-archive.com/
