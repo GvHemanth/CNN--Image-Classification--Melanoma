@@ -39,10 +39,10 @@ The CNN model used in this project consists of several convolutional and pooling
 
 After training the model for around 50 epochs, the following results were achieved:
 
-- Training Accuracy: 85%
+- Training Accuracy: 77%
 - Validation Accuracy: 75%
-- Training Loss: 0.35
-- Validation Loss: 0.65
+- Training Loss: 0.5
+- Validation Loss: 0.8
 
 The model showed significant improvement in accuracy and reduced overfitting compared to earlier versions. Class rebalancing using data augmentation played a crucial role in achieving these results.
 
